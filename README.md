@@ -30,16 +30,16 @@ The dataset contains employee-level information, including:
 
 ## Key Dashboard Metrics (KPIs)
 
-- 🔹 Total Employees  
-- 🔹 Employees Left  
-- 🔹 Average Salary  
-- 🔹 Gender Distribution  
-- 🔹 Hiring Trends (by year & city)  
-- 🔹 Attrition Rate (compared to 15% target)  
-- 🔹 Salary vs. Experience  
-- 🔹 Salary by Department  
-- 🔹 Attrition by Age Group  
-- 🔹 Employee Distribution by City
+-  Total Employees  
+-  Employees Left  
+-  Average Salary  
+-  Gender Distribution  
+-  Hiring Trends (by year & city)  
+-  Attrition Rate (compared to 15% target)  
+-  Salary vs. Experience  
+-  Salary by Department  
+-  Attrition by Age Group  
+-  Employee Distribution by City
 
 ## Sample Insights
 
@@ -58,8 +58,10 @@ The dataset contains employee-level information, including:
 
 ## Files
 
-- `Dashboard.pbix`: Power BI dashboard file  
-- `Dataset.csv`: Cleaned employee dataset  
-- `Notebook.ipynb`: Data preprocessing steps
+- `BI_Project.pbix` – Power BI dashboard report file  
+- `Employee.csv` – Original raw employee dataset  
+- `cleaned_salaries_dataset.csv` – Cleaned and processed version of the dataset  
+- `preprocesssing.ipynb` – Jupyter notebook used for data cleaning and preprocessing  
+- `PowerBI_Project_Report.pdf` – Full project report and analysis (PDF) 
 
 > Designed to support **data-driven HR decisions** and improve **organizational performance**.
